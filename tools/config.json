@@ -5,9 +5,9 @@
     "terminateAtExistingDB": false,
     "listenOnly": false,
     "settings": {
-        "symbol": "ETC",
-        "name": "Ethereum Classic",
-        "title": "Ethereum Classic Block Explorer",
+        "symbol": "ETF",
+        "name": "Ethereum Fast",
+        "title": "Ethereum Fast Block Explorer",
         "author": "Elaine"
     }
 }

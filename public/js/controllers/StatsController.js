@@ -11,7 +11,7 @@ angular.module('BlocksApp').controller('StatsController', function($stateParams,
 
     const CHART_TYPES = {
         "etc_hashrate": {
-            "title": "ETC Hashrate Growth"
+            "title": "ETF Hashrate Growth"
         },
         "miner_hashrate": {
             "title": "Miner Hashrate Distribution"
